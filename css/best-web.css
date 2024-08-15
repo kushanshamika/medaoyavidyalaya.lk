@@ -1,6 +1,6 @@
 .vote-badge {
     position: fixed;
-    width: 250px;
+    width: 150px;
     right: 20px; /* Adjust as needed for spacing from the right edge */
     top: 85%;
     transform: translateY(-50%); /* Center the badge vertically */
